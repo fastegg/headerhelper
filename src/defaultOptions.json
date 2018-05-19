@@ -1,0 +1,13 @@
+{
+  "javascript": {
+    "extensions": ["js", "ts", "jsx", "tsx"],
+    "comments": "//",
+    "multiLineComments": {
+      "start": "/*",
+      "end": "*/"
+    },
+    "headerLines": [
+      "^import * from "
+    ]
+  }
+}
